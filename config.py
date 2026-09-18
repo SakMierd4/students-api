@@ -1,0 +1,2 @@
+APP-VERSION = "1.0.0"
+DEBUG = False
