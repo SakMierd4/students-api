@@ -9,4 +9,8 @@ def health():
 
 @app.get("/students")
 def list_students():
+<<<<<<< Updated upstream
     return[{"id":1, "name": "Ana"}, {"id":2, "name": "Luis"}]
+=======
+    return [{"id":1,"name":"John Doe","phone":"123-456-7890"},{"id":2,"name":"Jane Smith","phone":"098-765-4321"}]
+>>>>>>> Stashed changes
